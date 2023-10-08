@@ -1,8 +1,8 @@
 {
-  "name": "CheemsBot-MD",
+  "name": "𝑫𝑨𝑹𝑲_𝑩𝑶𝑻︉︁︈",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/DGXeon/CheemsBot-MD8",
-  "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
+  "repository": "https://github.com/botwhatssappbobiz/EslamBotlnc",
+  "logo": "https://telegra.ph/file/94feb90f01d8b019f1d7c.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
